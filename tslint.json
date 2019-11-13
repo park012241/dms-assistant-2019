@@ -21,7 +21,8 @@
     "interface-name": false,
     "arrow-parens": false,
     "object-literal-sort-keys": false,
-    "semicolon": true
+    "semicolon": true,
+    "trailing-comma": true
   },
   "rulesDirectory": []
 }
